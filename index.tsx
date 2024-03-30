@@ -3,7 +3,9 @@ import styled from 'styled-components'
 import moment from 'moment'
 import { PlayArrow, Pause } from '@mui/icons-material'
 
-//todo - include TS typing and documentation
+//todo - include TS typing 
+//todo - instructions in readme
+//todo - include comments and and example
 
 function MusicPlayer() {
   const music = useRef(null)
